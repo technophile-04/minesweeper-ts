@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper-ts",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Shiv Bhonde",
+  "license": "MIT"
+}
