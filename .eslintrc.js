@@ -26,7 +26,7 @@ module.exports = {
   },
   plugins: ['jest', 'react', '@typescript-eslint', 'prettier'],
   rules: {
-    'prettier/prettier': ['error', { singleQuote: true }, { tab: true }],
+    'prettier/prettier': ['error', { singleQuote: true }],
     quotes: ['error', 'single'],
   },
 };
